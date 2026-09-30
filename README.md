@@ -33,7 +33,7 @@ jliu
 rvatsavai
 rrvatsavai
 csymons
-ncus\.edu
+ncsu\.edu
 lirio\.com
 lirio\.co
 lirio
