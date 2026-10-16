@@ -175,7 +175,7 @@ def main():
         model.train()
         batch = tuple(input_tensor.to(args.device) for input_tensor in batch)
         model_inputs = dict(zip(model_input_names, batch))
-        if args.method == "2":
+        if args.method == "GRAG":
             model_inputs.update({
                 "jepa_weight": args.jepa_weight
             })
