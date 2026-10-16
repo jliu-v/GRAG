@@ -1,0 +1,7 @@
+### Conversation History ###
+{formatted_history}
+
+### User's Last Prompt ###
+{user_prompt}
+
+### Agent Response ###

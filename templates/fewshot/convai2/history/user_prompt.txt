@@ -1,0 +1,10 @@
+## Conversation History ##
+{formatted_history}
+
+## User's Last Prompt ##
+{user_prompt}
+
+## Personas ##
+{persona}
+
+## Agent Response ##

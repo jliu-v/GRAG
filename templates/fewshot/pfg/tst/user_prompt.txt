@@ -1,0 +1,7 @@
+## Reference Agent Generic Response ##
+{generic_response}
+
+## Personas ##
+{persona}
+
+## Rewritten Agent Response ##

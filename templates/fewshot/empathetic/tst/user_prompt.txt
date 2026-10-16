@@ -1,0 +1,7 @@
+## Reference Agent Response in Neutral Style ##
+{generic_response}
+
+## Target Style ##
+{persona}
+
+## Rewritten Agent Response ##

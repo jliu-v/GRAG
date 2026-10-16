@@ -1,0 +1,13 @@
+## Conversation History ##
+{formatted_history}
+
+## User's Last Prompt ##
+{user_prompt}
+
+## Reference Agent Generic Response ##
+{generic_response}
+
+## Personas ##
+{persona}
+
+## Rewritten Agent Response ##
