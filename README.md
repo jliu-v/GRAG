@@ -258,4 +258,4 @@ The datasets (Synthetic Persona Chat, ConvAI2, PersuasionForGood and EmpatheticD
 
 [3] Xuewei Wang, et al. "Persuasion for good: Towards a personalized persuasive dialogue system for social good." *Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics* (2019).
 
-[4] Young-Suk Lee, et al. "PersonaChat-Gen: A Dataset for Controllable Persona-Grounded Dialogue." *arXiv preprint arXiv:2404.05602* (2024).
+[4] Pegah Jandaghi, et al. "Faithful Persona-based Conversational Dataset Generation with Large Language Models." *arXiv preprint arXiv:2312.10007* (2023).
